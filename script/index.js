@@ -10,7 +10,4 @@ document.onclick = (e) => {
 
 burgerMenuBtn.addEventListener("click", () => {
     burgerMenu.classList.toggle("active")
-    // console.log(burgerMenu.classList)
-
-    // console.log("aha,I have been clicked, dunh dunh dunh!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
 })
