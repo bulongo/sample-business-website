@@ -1,0 +1,25 @@
+{
+  "name": "businessnamesample",
+  "version": "1.0.0",
+  "description": "A site I am creating by copying some design elements from another site. No intention of it looking similar though",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bmukkuli@github.com"
+  },
+  "keywords": [
+    "bulo",
+    "business",
+    "sample",
+    "fun",
+    "serious"
+  ],
+  "author": "dustparticle",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.56.2"
+  }
+}
